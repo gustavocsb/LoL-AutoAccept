@@ -44,3 +44,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.<br><br>
 
 Espero que isso ajude! Se você tiver alguma dúvida ou precisar de mais assistência, por favor, entre em contato.
+
+<br><br><br><br>
+# GUI
+![GUI](assets/GUI.png)
