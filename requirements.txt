@@ -1,2 +1,3 @@
 lcu-driver==3.0.0
 PyQt5==5.15.10
+PyInstaller==6.1.0
