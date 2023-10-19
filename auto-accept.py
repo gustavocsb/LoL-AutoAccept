@@ -14,7 +14,7 @@ class Window(QMainWindow):
 
         self.setWindowTitle("Auto Accept")
         self.setGeometry(300, 300, 300, 200)
-        self.setWindowIcon(QIcon("qiydisc_1.ico"))
+        self.setWindowIcon(QIcon("assets\qiydisc_1.ico"))
 
         # Setando as cores do background e da font
         palette = QPalette()
